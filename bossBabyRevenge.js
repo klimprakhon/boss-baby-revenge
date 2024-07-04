@@ -1,6 +1,6 @@
 // Boos Baby's Revenge
 
-const shots = "SSRSRRR";
+// const shots = "SSRSRRR";
 
 function bossBabyRevenge(shots) {
   if (typeof shots !== "string") {
@@ -52,6 +52,6 @@ function bossBabyRevenge(shots) {
   }
 }
 
-console.log(bossBabyRevenge(shots));
+// console.log(bossBabyRevenge(shots));
 
 module.exports = bossBabyRevenge;
